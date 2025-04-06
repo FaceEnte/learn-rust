@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/build_string_from_literals: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/What\ is\ ownership/Build\ String\ from\ Literals/src/main.rs

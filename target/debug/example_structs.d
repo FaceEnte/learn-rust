@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/example_structs: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Structs,\ Methods,\ Enums,\ and\ Pattern\ Matching/Structs/Dealing\ with\ Rectangles/src/main.rs

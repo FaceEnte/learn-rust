@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/tuple_index: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Programming\ Concepts/Tuples\ and\ Arrays/Tuple\ Index/src/main.rs

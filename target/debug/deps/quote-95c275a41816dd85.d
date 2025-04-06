@@ -1,0 +1,11 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn Rust/target/debug/deps/libquote-95c275a41816dd85.rmeta: /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs
+
+/Users/byteme/Developer/JetBrains/RustRover/Learn Rust/target/debug/deps/quote-95c275a41816dd85.d: /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs
+
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/lib.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ext.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/format.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/ident_fragment.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/to_tokens.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/runtime.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.38/src/spanned.rs:

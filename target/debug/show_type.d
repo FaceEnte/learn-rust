@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/show_type: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/The\ Slice\ Type/Understanding\ Types/src/main.rs

@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/struct_logic: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Structs,\ Methods,\ Enums,\ and\ Pattern\ Matching/Structs\ with\ Methods/Sending\ Packages/src/main.rs

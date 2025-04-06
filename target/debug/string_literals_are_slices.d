@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/string_literals_are_slices: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/The\ Slice\ Type/String\ Literals\ Are\ Slices/src/main.rs

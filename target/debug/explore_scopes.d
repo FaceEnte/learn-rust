@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/explore_scopes: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/What\ is\ ownership/Explore\ Scopes/src/main.rs

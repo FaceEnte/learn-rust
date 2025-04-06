@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/adding_useful_functionality_with_derived_traits: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Structs,\ Methods,\ Enums,\ and\ Pattern\ Matching/Structs/Adding\ Useful\ Functionality\ with\ Derived\ Traits/src/main.rs

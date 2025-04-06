@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/basic_datatypes_intro: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Programming\ Concepts/Basic\ Data\ Types/Intro/src/main.rs

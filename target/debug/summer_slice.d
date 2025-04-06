@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/summer_slice: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/The\ Slice\ Type/Summer\ Slice/src/main.rs

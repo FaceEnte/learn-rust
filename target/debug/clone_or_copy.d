@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/clone_or_copy: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/What\ is\ ownership/Tuples,\ Clone\ or\ Copy/src/main.rs

@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/the_string_type: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/What\ is\ ownership/The\ String\ Type/src/main.rs

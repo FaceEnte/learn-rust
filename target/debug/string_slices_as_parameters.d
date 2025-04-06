@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/string_slices_as_parameters: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Understanding\ Ownership/The\ Slice\ Type/String\ Slices\ as\ Parameters/src/main.rs

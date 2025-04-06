@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/tuples: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Programming\ Concepts/Tuples\ and\ Arrays/Destructure\ a\ Tuple/src/main.rs

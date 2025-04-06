@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/creating_instances_from_other_instances: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Structs,\ Methods,\ Enums,\ and\ Pattern\ Matching/Structs/Creating\ Instances\ From\ Other\ Instances/src/main.rs

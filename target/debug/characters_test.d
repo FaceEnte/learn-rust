@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/characters_test: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Programming\ Concepts/Basic\ Data\ Types/Characters\ Test/src/main.rs

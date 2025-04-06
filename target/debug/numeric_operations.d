@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/numeric_operations: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Programming\ Concepts/Basic\ Data\ Types/Numeric\ Operations/src/main.rs
