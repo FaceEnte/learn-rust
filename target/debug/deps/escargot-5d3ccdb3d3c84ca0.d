@@ -1,0 +1,15 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn Rust/target/debug/deps/libescargot-5d3ccdb3d3c84ca0.rmeta: /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/lib.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/build.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/cargo.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/msg.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/run.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/error.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/format/mod.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/format/diagnostic.rs /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/build/escargot-d6e89318bdd733b8/out/current_target.txt
+
+/Users/byteme/Developer/JetBrains/RustRover/Learn Rust/target/debug/deps/escargot-5d3ccdb3d3c84ca0.d: /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/lib.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/build.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/cargo.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/msg.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/run.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/error.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/format/mod.rs /Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/format/diagnostic.rs /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/build/escargot-d6e89318bdd733b8/out/current_target.txt
+
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/lib.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/build.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/cargo.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/msg.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/run.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/error.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/format/mod.rs:
+/Users/byteme/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/escargot-0.5.13/src/format/diagnostic.rs:
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/build/escargot-d6e89318bdd733b8/out/current_target.txt:
+
+# env-dep:OUT_DIR=/Users/byteme/Developer/JetBrains/RustRover/Learn Rust/target/debug/build/escargot-d6e89318bdd733b8/out

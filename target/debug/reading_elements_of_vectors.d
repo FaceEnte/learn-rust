@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/reading_elements_of_vectors: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Collections/Vectors/Reading\ Elements\ of\ Vectors/src/main.rs

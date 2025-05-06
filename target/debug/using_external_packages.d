@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/using_external_packages: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Modules/Modules/Using\ External\ Packages/src/main.rs
