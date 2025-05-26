@@ -1,0 +1,1 @@
+/Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/target/debug/strings_and_strs: /Users/byteme/Developer/JetBrains/RustRover/Learn\ Rust/Common\ Collections/Strings/Strings\ and\ strs/src/main.rs
