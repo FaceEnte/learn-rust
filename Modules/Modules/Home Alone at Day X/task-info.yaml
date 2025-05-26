@@ -14,24 +14,24 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 166
+        length: 29
         placeholder_text: /* Add use statements here */
         initial_state:
           length: 29
           offset: 0
         initialized_from_dependency: false
         encrypted_possible_answer: Cy55l4A5Hl+I7c8CzfSSn8zUzR2MMfJAd+1jyDbOvRELM+RQBhdd6pUmvewzLCmlH3Yx5OsbiOsollDa88XCQ6/L/RTchIfeeD0MTS95QCrokpefZYpMeji6RF0Ioxydeu2prYHLlaGHbGhHQQGX8mAAwY5uRuNWcxTULr6W29HSVW0eL5CBzqZ0IsjF6ovt/XjWXKsE249+dT0QT7C9pQsyMHpX1Aso/uy6fHE4nKA=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 296
-        length: 18
+      - offset: 137
+        length: 30
         placeholder_text: /* What's Alice doing here? */
         initial_state:
           length: 30
           offset: 137
         initialized_from_dependency: false
         encrypted_possible_answer: 44q96sd5Yzk1SxMEbCvqlPtgE9fqkpFVLMcRzrq0/cSqHMsQdDss9cGpD0OZ1DGL
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: src/ground_floor/big_hall.rs
@@ -62,7 +62,7 @@ files:
     visible: true
     placeholders:
       - offset: 0
-        length: 3
+        length: 9
         placeholder_text: /* ??? */
         initial_state:
           length: 9
@@ -83,7 +83,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Home+Alone+at+Day+X
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 20 Apr 2025 19:32:19 UTC"
 record: -1

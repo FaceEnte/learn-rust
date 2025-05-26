@@ -10,8 +10,8 @@ files:
   - name: src/lib.rs
     visible: true
     placeholders:
-      - offset: 0
-        length: 120
+      - offset: 23
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -20,8 +20,8 @@ files:
         encrypted_possible_answer: cQgiopiCmiERWAPUNkS7ncSNIFZD4lhnJwLBa+Xnals=
         selected: false
         status: Solved
-      - offset: 0
-        length: 120
+      - offset: 35
+        length: 8
         placeholder_text: /*TODO*/
         initial_state:
           length: 8
@@ -30,8 +30,8 @@ files:
         encrypted_possible_answer: 7HeDh3/EQrxj0zw7D/Yppw==
         selected: false
         status: Solved
-      - offset: 0
-        length: 120
+      - offset: 50
+        length: 28
         placeholder_text: /*write your solution here*/
         initial_state:
           length: 28
@@ -43,7 +43,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+Functions+and+Conditions+Test+/+Calculate+Price
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 13 Feb 2025 18:53:45 UTC"
 record: -1

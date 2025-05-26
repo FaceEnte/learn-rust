@@ -4,8 +4,8 @@ files:
   - name: src/lib.rs
     visible: true
     placeholders:
-      - offset: 362
-        length: 3
+      - offset: 329
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -14,15 +14,15 @@ files:
         encrypted_possible_answer: Lh6PsScdVvMeSUxghw/ftA==
         selected: false
         status: Solved
-      - offset: 385
-        length: 165
+      - offset: 372
+        length: 21
         placeholder_text: /* Add match cases */
         initial_state:
           length: 21
           offset: 372
         initialized_from_dependency: false
         encrypted_possible_answer: 4kd66SVqtS6esdj5aJ1Oo9SEaRKuikmv12Epc4AxfTi48eV0Vx1zN/vnc5iHiGsjbTNlVa5iKkXscAvNaeoG9OmtsTZzWMpkX5b+cerQUYOJxU4c9vSTN8SrwMxrjZ/MJTAefu82qUceRMxa+y3EHBcpVGEd3epDcSVpBiUD2OQL33rGAtVJZnz9psSHXBEefY+u7/rogGog8y8hf9+uHejyh8Q8CSioYrRaPBGMapU=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: src/main.rs
@@ -36,7 +36,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Count+Typed+Cells
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 20 Apr 2025 20:08:20 UTC"
 record: -1

@@ -7,17 +7,17 @@ files:
   - name: src/main.rs
     visible: true
     placeholders:
-      - offset: 168
-        length: 7
+      - offset: 172
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
           offset: 172
         initialized_from_dependency: false
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 209
+      - offset: 206
         length: 0
         placeholder_text: ""
         initial_state:
@@ -27,7 +27,7 @@ files:
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
         status: Solved
-      - offset: 248
+      - offset: 242
         length: 0
         placeholder_text: ""
         initial_state:
@@ -37,7 +37,7 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 285
+      - offset: 276
         length: 0
         placeholder_text: ""
         initial_state:
@@ -47,7 +47,7 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 395
+      - offset: 386
         length: 0
         placeholder_text: ""
         initial_state:
@@ -57,8 +57,8 @@ files:
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
         status: Solved
-      - offset: 429
-        length: 3
+      - offset: 420
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -67,8 +67,8 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 464
-        length: 7
+      - offset: 456
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -77,8 +77,8 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 505
-        length: 3
+      - offset: 490
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -87,8 +87,8 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 643
-        length: 3
+      - offset: 619
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -97,8 +97,8 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 679
-        length: 1
+      - offset: 653
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -107,8 +107,8 @@ files:
         encrypted_possible_answer: BPrPxsoPO0ddRfXxWyDgbA==
         selected: false
         status: Solved
-      - offset: 716
-        length: 3
+      - offset: 689
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -117,8 +117,8 @@ files:
         encrypted_possible_answer: 9gHhNfdFwWo/juJtahEseQ==
         selected: false
         status: Solved
-      - offset: 753
-        length: 3
+      - offset: 723
+        length: 0
         placeholder_text: ""
         initial_state:
           length: 0
@@ -133,7 +133,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Who+Owns+the+One+Ring
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 16 Feb 2025 17:35:15 UTC"
 record: -1

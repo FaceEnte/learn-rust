@@ -5,17 +5,17 @@ files:
     visible: true
     placeholders:
       - offset: 96
-        length: 21
+        length: 25
         placeholder_text: /* Something goes here */
         initial_state:
           length: 25
           offset: 96
         initialized_from_dependency: false
         encrypted_possible_answer: /woAluQ8/g4A/EeI65UruezyPQKTHY6lCCJJJhmsYtA=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 127
-        length: 5
+      - offset: 132
+        length: 25
         placeholder_text: /* Something goes here */
         initial_state:
           length: 25
@@ -24,15 +24,15 @@ files:
         encrypted_possible_answer: w/IJOa/X0wTeRQDPu82lig==
         selected: false
         status: Solved
-      - offset: 138
-        length: 27
+      - offset: 164
+        length: 25
         placeholder_text: /* Something goes here */
         initial_state:
           length: 25
           offset: 164
         initialized_from_dependency: false
         encrypted_possible_answer: uIOVN3BKcAggn5BPywCqjtUuenYsPTzx5Y6Fh1SJ5YA=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: src/main.rs
@@ -46,7 +46,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+Add+Conditions
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 13 Feb 2025 18:48:20 UTC"
 record: -1

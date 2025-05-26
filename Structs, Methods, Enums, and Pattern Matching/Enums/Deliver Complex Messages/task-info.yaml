@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 36
-        length: 79
+        length: 43
         placeholder_text: // Define the different variants used below
         initial_state:
           length: 43
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+Deliver+Complex+Messages
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Thu, 20 Mar 2025 19:34:00 UTC"
 record: -1

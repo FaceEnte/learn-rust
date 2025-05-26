@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 149
-        length: 2
+        length: 4
         placeholder_text: TODO
         initial_state:
           length: 4
@@ -17,8 +17,8 @@ files:
         encrypted_possible_answer: n5wLwwE4pqMpD1sapmwZtQ==
         selected: false
         status: Solved
-      - offset: 238
-        length: 1
+      - offset: 240
+        length: 4
         placeholder_text: TODO
         initial_state:
           length: 4
@@ -27,7 +27,7 @@ files:
         encrypted_possible_answer: F0RVsgbVVr8gmRiE6NkjZA==
         selected: false
         status: Solved
-      - offset: 289
+      - offset: 294
         length: 4
         placeholder_text: TODO
         initial_state:
@@ -43,7 +43,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Explore+Scopes
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 14 Feb 2025 11:20:55 UTC"
 record: -1

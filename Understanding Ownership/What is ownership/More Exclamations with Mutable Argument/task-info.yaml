@@ -5,14 +5,14 @@ files:
     visible: true
     placeholders:
       - offset: 240
-        length: 3
+        length: 8
         placeholder_text: /*TODO*/
         initial_state:
           length: 8
           offset: 240
         initialized_from_dependency: false
         encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: Cargo.toml
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations+with+Mutable+Argument
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 16 Feb 2025 17:43:51 UTC"
 record: -1

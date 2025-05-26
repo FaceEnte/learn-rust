@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 42
-        length: 18
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -17,8 +17,8 @@ files:
         encrypted_possible_answer: KYbu5T9bs/cneb2aNJ0rxkcFtGAo3c5lTQJi9s58ztM=
         selected: false
         status: Solved
-      - offset: 71
-        length: 15
+      - offset: 63
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -33,7 +33,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Find+a+sum
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 14 Feb 2025 11:02:27 UTC"
 record: -1

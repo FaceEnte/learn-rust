@@ -5,34 +5,34 @@ files:
     visible: true
     placeholders:
       - offset: 60
-        length: 3
+        length: 37
         placeholder_text: /*insert the necessary keyword here*/
         initial_state:
           length: 37
           offset: 60
         initialized_from_dependency: false
         encrypted_possible_answer: p2QTIZMc8oJ7P6xt+M+WXA==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 89
-        length: 5
+      - offset: 123
+        length: 8
         placeholder_text: /*TODO*/
         initial_state:
           length: 8
           offset: 123
         initialized_from_dependency: false
         encrypted_possible_answer: djUR82DQtb0QykmZtPBuMw==
-        selected: true
+        selected: false
         status: Solved
-      - offset: 311
-        length: 3
+      - offset: 348
+        length: 8
         placeholder_text: /*TODO*/
         initial_state:
           length: 8
           offset: 348
         initialized_from_dependency: false
         encrypted_possible_answer: OlzAuUbK2qNIHtD+FGoWyg==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: Cargo.toml
@@ -43,7 +43,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+More+Exclamations
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 16 Feb 2025 17:41:12 UTC"
 record: -1

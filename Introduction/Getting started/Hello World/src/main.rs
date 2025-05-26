@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    // put your code here to launch it
 }

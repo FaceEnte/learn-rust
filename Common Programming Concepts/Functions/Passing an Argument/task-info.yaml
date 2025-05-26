@@ -8,14 +8,14 @@ files:
     visible: true
     placeholders:
       - offset: 24
-        length: 2
+        length: 4
         placeholder_text: TODO
         initial_state:
           length: 4
           offset: 24
         initialized_from_dependency: false
         encrypted_possible_answer: MLcncFemOCq1pOmRWXqSfg==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/tests.rs
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Passing+an+Argument
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 12 Feb 2025 20:30:07 UTC"
 record: -1

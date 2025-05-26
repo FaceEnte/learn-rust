@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 109
-        length: 25
+        length: 70
         placeholder_text: // Finish the rest of this line like the example! Or make it
           be false!
         initial_state:
@@ -16,7 +16,7 @@ files:
           offset: 109
         initialized_from_dependency: false
         encrypted_possible_answer: 2+7POt4eiymUghlNx50j/EMpKvYr/2BnYLc9sp6FeNI=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/tests.rs
@@ -24,7 +24,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Boolean+Test
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 12 Feb 2025 18:44:06 UTC"
 record: -1

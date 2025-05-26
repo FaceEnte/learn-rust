@@ -7,8 +7,8 @@ files:
   - name: src/main.rs
     visible: true
     placeholders:
-      - offset: 261
-        length: 57
+      - offset: 182
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Repetitions+/+Print+Months
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 14 Feb 2025 11:00:14 UTC"
 record: -1

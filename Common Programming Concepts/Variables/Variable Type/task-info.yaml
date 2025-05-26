@@ -8,14 +8,14 @@ files:
     visible: true
     placeholders:
       - offset: 21
-        length: 5
+        length: 31
         placeholder_text: /*insert here missing part(s)*/
         initial_state:
           length: 31
           offset: 21
         initialized_from_dependency: false
         encrypted_possible_answer: c7PuLZhDhQrD0om4JOPwxw==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/tests.rs
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Variable+Type
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 12 Feb 2025 18:16:30 UTC"
 record: -1

@@ -1,8 +1,8 @@
 fn main() {
     let mut sum = 0;
 
-    for numbers in 1..=100 {
-        sum += numbers;
+    for /* TODO */ {
+        /* TODO */
     }
 
     println!("Sum is {}", sum)

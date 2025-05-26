@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 12
-        length: 6
+        length: 41
         placeholder_text: /* Something wrong with this constant! */
         initial_state:
           length: 41
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Variables+/+Constant+Type
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Wed, 12 Feb 2025 18:17:39 UTC"
 record: -1

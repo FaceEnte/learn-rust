@@ -5,7 +5,7 @@ files:
     visible: true
     placeholders:
       - offset: 118
-        length: 8
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -14,8 +14,8 @@ files:
         encrypted_possible_answer: FJ8S1FxPC8dh+Isw6daPCw==
         selected: false
         status: Solved
-      - offset: 141
-        length: 20
+      - offset: 143
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -36,7 +36,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Create+a+Vector+on+Your+Own
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 20 Apr 2025 19:37:53 UTC"
 record: -1

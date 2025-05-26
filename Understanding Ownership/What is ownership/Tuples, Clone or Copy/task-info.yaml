@@ -8,7 +8,7 @@ files:
     visible: true
     placeholders:
       - offset: 240
-        length: 8
+        length: 10
         placeholder_text: /* TODO */
         initial_state:
           length: 10
@@ -23,7 +23,4 @@ files:
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Tuples+Clone+or+Copy
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Sun, 16 Feb 2025 17:38:44 UTC"
 record: -1
